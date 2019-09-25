@@ -1,5 +1,6 @@
 server:
   port: 8888
+  address: 106.54.90.47
 spring:
   application:
     name: jenkins-deploy-demo
