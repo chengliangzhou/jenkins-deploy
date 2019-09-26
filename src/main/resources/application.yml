@@ -1,5 +1,5 @@
 server:
-  port: 10000
+  port: 9999
   address: 106.54.90.47
 spring:
   application:
