@@ -27,4 +27,10 @@ public class HelloController {
     public String sayHelloToJenkins(){
         return "hello jenkins !";
     }
+    @RequestMapping(value = "me")
+    @ResponseBody
+    public String sayHelloToMe(){
+        return "hello zcl !";
+    }
+
 }
